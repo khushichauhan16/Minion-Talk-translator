@@ -1,0 +1,24 @@
+body{margin: 0px;text-align: center;font-family:monospace;}
+.heading{
+    background-color: yellow;
+    padding-top:10px;
+    width: 100%;
+    height: 100px;
+    
+    color:black;
+    }
+#heading{padding: 30px;}
+.inputArea{box-sizing:border-box;display: block;margin: 1rem 15rem;text-align: center;
+width: 60%;height:100px;max-height: 150px;}
+.button{background-color:yellow;border: 2px solid black;border-radius: 12px;font-size: 20px;}
+.button:hover{background-color: white;}
+.outputArea{box-sizing:border-box;display: block;margin: 1rem 15rem;text-align: center;
+    width: 60%;height:100px;max-height: 150px;border: 1px solid black;
+}
+.about
+{
+    background-color: yellow;padding:6px 0px 11px 0px;
+}
+h1{padding-top:25px;}
+h4{text-align: left;margin-left:15rem;}
+p{font-size: large;}
